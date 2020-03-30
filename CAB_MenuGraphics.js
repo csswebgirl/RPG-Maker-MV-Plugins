@@ -77,6 +77,9 @@ CAB.MENUGRAPHICS.version = 1.00;
  * Helps to give all menu screens more of an Octopath Traveler-based layout, using
  * custom-made graphics.
  *
+ * Your game MUST be running in full Wide Screen (1920 x 1080) for this plugin
+ * to take full effect and be used properly.
+ *
  * From the AltMenScreen3 help info:
  * This plugin does not provide plugin commands.
  *  The differences with AltMenuscreen are follows:

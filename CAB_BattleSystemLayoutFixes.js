@@ -26,6 +26,8 @@ CAB.BATTLESYSTEMLAYOUTFIXES.version = 1.00;
  *
  * Place this plugin BELOW ALL OctoPack Battler Plugins.
  *
+ * Your game MUST be running in full Wide Screen (1920 x 1080) for this plugin
+ * to take full effect and be used properly.
  *
  * ============================================================================
  * Changelog

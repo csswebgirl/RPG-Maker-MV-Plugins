@@ -96,6 +96,9 @@ CAB.MENULAYOUT.version = 1.00;
  * Helps to give all menu screens more of an Octopath Traveler-based layout, using
  * custom-made graphics.
  *
+ * Your game MUST be running in full Wide Screen (1920 x 1080) for this plugin
+ * to take full effect and be used properly.
+ *
  * This plugin modifies the layout of the MAIN MENU ONLY.
  * For use with the CAB_MenuGraphics.js File (required).
  *
