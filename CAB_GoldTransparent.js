@@ -9,6 +9,9 @@
 * the postion of it on the main window as well.
 *
 * @help
+* Version 1.00-B1
+* C. A. Brown
+*
 * This plugin makes the Gold/Currency window in the game transparent and moves
 * the position of the window to the top-right corner of the game window.
 *

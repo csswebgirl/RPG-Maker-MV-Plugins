@@ -91,8 +91,11 @@ CAB.MENUGRAPHICS.version = 1.00;
  * width: 174px(maxColsMenu=4), 240px(maxColsMenu=3)
  * height: 408px(commandRows=2), 444px(commandRows=1)
  *
- * Made to work with Yanfly's Plugins, but none are required. Place BELOW
- * all Yanfly plugins.
+ * For use with the CAB_MenuLayout.js Plugin (required). Place this plugin BELOW
+ * the CAB_MenuLayout plugin.
+ *
+ * Made to work with Yanfly's Plugins. Yanfly's MainMenuManager.js plugin is
+ * required. Place BELOW all Yanfly plugins.
  *
  * Place ABOVE all OctoPack Battler Plugins.
  *
