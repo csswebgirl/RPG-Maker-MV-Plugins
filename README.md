@@ -5,7 +5,9 @@ of an additional plugin, and the plugin I created will modify that plugin for mo
 
 All the created plugins listed are ONLY for use with **RPG Maker MV v1.5.2 and below**. None have been
 tested for use with any version above v1.5.2. Additionally, please note that each plugin that requires
-another plugin to work will note which version of that plugin the modifying plugin has been tested with. If the plugin that is being modified is a higher version than the one listed, the modifier plugin may not fully work.
+another plugin to work will note which version of that plugin the modifying plugin has been tested with.
+If the plugin that is being modified is a higher version than the one listed, the modifier plugin may not
+fully work.
 
 **Note:** If you find a bug that is related to the additional plugin, please contact the creator
 of **that** plugin and not me.
@@ -26,6 +28,20 @@ plugins go underneath *all* of the OctoPack Battler Plugins.
 
 ![Plugin Listing](https://lh3.googleusercontent.com/HIFWJ_0fCg0vFHA-hvoQ6yklR6uLGfhmQPZrRdiVQ1FeKkgb24Km5-K5VQwNC3JO_gIstuhyePu_UxTKBmH7-cb2IDHGZo4CTRFLmn3-ZhqPdGXXGvfEeYQNJJFVcuWZqLYwk5nl_A=w2400)
 
+
 ## Reporting Bugs / Issues
 
-If you find any bugs or issues with any plugin, please contact me [via email](mailto:csswebgirl@gmail.com). 
+If you find any bugs or issues with any plugin, please contact me [via email](mailto:csswebgirl@gmail.com).
+
+
+## Terms of use for non-commercial and commercial:
+
+* Free to use and modify.
+* Do not claim the Plugins as your own.
+* Header from Plugins are not to be removed.
+* Plugins can be edited/modified but can not be claimed as your own.
+* Credit is not required, but would be appreciated.
+* Compatibility patches must be aprroved of first.
+* Any additional terms in Plugin must be followed.
+
+All plugins are free to use for free and commercial games as of March 1st, 2020.
