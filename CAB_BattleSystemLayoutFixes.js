@@ -8,7 +8,7 @@ Imported.CAB_BattleSystemLayoutFixes = true;
 
 var CAB = CAB || {};
 CAB.BATTLESYSTEMLAYOUTFIXES = CAB.BATTLESYSTEMLAYOUTFIXES || {};
-CAB.BATTLESYSTEMLAYOUTFIXES.version = 1.00-B1;
+CAB.BATTLESYSTEMLAYOUTFIXES.version = 1.00;
 
 //=============================================================================
  /*:
