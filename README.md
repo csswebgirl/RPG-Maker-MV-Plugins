@@ -6,8 +6,8 @@ of an additional plugin, and the plugin I created will modify that plugin for mo
 All the created plugins listed are ONLY for use with **RPG Maker MV v1.5.2 and below**. None have been
 tested for use with any version above v1.5.2. Additionally, please note that each plugin that requires
 another plugin to work will note which version of that plugin the modifying plugin has been tested with.
-If the plugin that is being modified is a higher version than the one listed, the modifier plugin may not
-fully work.
+If the plugin that is being modified requires a specific version, the modifier plugin may not
+fully work if using a version above the specific version listed.
 
 **Note:** If you find a bug that is related to the additional plugin, please contact the creator
 of **that** plugin and not me.
