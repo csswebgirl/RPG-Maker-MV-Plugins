@@ -1,5 +1,5 @@
 //=============================================================================
-// CAB RPGMV Plugin - Battle System Layout Fixes
+// CAB RPGMMV Plugin - Battle System Layout Fixes
 // CAB_BattleSystemLayoutFixes.js
 //=============================================================================
 
@@ -24,7 +24,8 @@ CAB.BATTLESYSTEMLAYOUTFIXES.version = 1.00-B1;
  * This plugin is for use with Olivia's OctoPack Battler Plugins. Please see the
  * notes for those plugins for correct instilation and use of them.
  *
- * Place this plugin BELOW ALL OctoPack Battler Plugins.  
+ * Place this plugin BELOW ALL OctoPack Battler Plugins.
+ *
  *
  * ============================================================================
  * Changelog
