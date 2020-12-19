@@ -14,7 +14,7 @@ CAB.MENUGRAPHICS.version = 1.00;
  /*:
  * @plugindesc v1.00-B1 Customize the graphics of the menus.
  * Made to work with Yanfly's Plugins.
- * @author C. A. Brown
+ * @author csswebgirl
  *
  *
  * @default

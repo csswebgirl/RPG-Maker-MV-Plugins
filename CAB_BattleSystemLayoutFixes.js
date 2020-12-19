@@ -14,7 +14,7 @@ CAB.BATTLESYSTEMLAYOUTFIXES.version = 1.00;
  /*:
  * @plugindesc v1.00-B1 Customize specific layouts for the Battle System.
  * Made to work with Olivia_BreakShieldSystem Plugin.
- * @author C. A. Brown
+ * @author csswebgirl
  *
  * @help
  * This plugin adjusts the postion of the Break Shield Icon and Number Text.
